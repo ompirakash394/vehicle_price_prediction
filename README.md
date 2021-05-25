@@ -5,8 +5,6 @@ In this task, a dataset is given regarding details of cars and you have to predi
 Encoding of Categorical Variables
 Since the implementation is done via regression, I have encoded the categorical variables into numerals. I have done this via OneHotEncoder in scikit, feel free to use encoders of your choice. For reference:
 
-Documentation : https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.OneHotEncoder.html
-Article: https://towardsdatascience.com/categorical-encoding-using-label-encoding-and-one-hot-encoder-911ef77fb5bd
 
 References
 Dataset - https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho (Only third one used in this task)
